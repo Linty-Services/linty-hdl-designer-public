@@ -1,3 +1,6 @@
 [settings]
   V4p.Settings.ErrorChecker.Enabled = False
   V4p.Settings.Basics.TopLevelEntities = "plasma_3e"
+
+[excludes]
+  .linty/** = true
